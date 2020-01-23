@@ -1,0 +1,7 @@
+1. Zainstalowaæ pycharm i anaconda
+2. otworzyæ folder w pycharm 
+3. stworzyæ nowy interpreter z anacondy (albo za³adowaæ z venv)
+4. zainstalowaæ biblioteki z pliku requirements.exe
+5. W parametrs.py ustawiæ parametry 
+6. w³¹czyæ train.py (zajmie ok 2h)
+7. w³¹czyæ test.py (musi byæ w ten sam dzieñ co train) 

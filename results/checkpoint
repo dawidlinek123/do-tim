@@ -1,0 +1,2 @@
+model_checkpoint_path: "2020-01-22_MCD-mse-LSTM-seq-100-step-90-layers-3-units-256"
+all_model_checkpoint_paths: "2020-01-22_MCD-mse-LSTM-seq-100-step-90-layers-3-units-256"

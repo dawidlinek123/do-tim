@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31e23138-4647-4067-9171-0b5302dc5955" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/do-tim" />
+  </component>
+  <component name="ProjectId" id="1WiaCNZyhsyAVXBbg6BYNXSYJZb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock-prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="stock-prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e23138-4647-4067-9171-0b5302dc5955" name="Default Changelist" comment="" />
+      <created>1579634744860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579634744860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#Inspections" timestamp="1579710021972">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1579710021972" />
+    <state x="2399" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579634794907">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2399" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579634794907" />
+    <state x="2724" y="140" key="FileChooserDialogImpl" timestamp="1579711367999">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2724" y="140" key="FileChooserDialogImpl/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579711367999" />
+    <state width="1899" height="330" key="GridCell.Tab.0.bottom" timestamp="1579726151253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-173.2048.1112@0.0.1920.1040" timestamp="1579726151253" />
+    <state width="2027" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579714127963" />
+    <state width="1899" height="330" key="GridCell.Tab.0.center" timestamp="1579726151252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="330" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-173.2048.1112@0.0.1920.1040" timestamp="1579726151252" />
+    <state width="2027" height="330" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579714127963" />
+    <state width="1899" height="330" key="GridCell.Tab.0.left" timestamp="1579726151252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="330" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-173.2048.1112@0.0.1920.1040" timestamp="1579726151252" />
+    <state width="2027" height="330" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579714127963" />
+    <state width="1899" height="330" key="GridCell.Tab.0.right" timestamp="1579726151252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="330" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-173.2048.1112@0.0.1920.1040" timestamp="1579726151252" />
+    <state width="2027" height="330" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579714127963" />
+    <state x="468" y="221" key="SettingsEditor" timestamp="1579724112371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="221" key="SettingsEditor/0.0.1920.1040/1920.-173.2048.1112@0.0.1920.1040" timestamp="1579724112371" />
+    <state x="2453" y="28" key="SettingsEditor/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1579714123517" />
+  </component>
+</project>
